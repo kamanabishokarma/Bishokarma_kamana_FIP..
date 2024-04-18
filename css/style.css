@@ -14,7 +14,7 @@
     --main-color:#008145;
     --Second-color:r#1e3932;
 }
-*::section {
+*::section { 
     color: #fff;
     background: var(--main-color);
 
